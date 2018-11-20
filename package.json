@@ -1,0 +1,11 @@
+{
+  "name": "lucycoppweb",
+  "version": "0.0.1",
+  "description": "Personal website for lucycopp.co.uk",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Lucy Copp",
+  "license": "ISC"
+}
